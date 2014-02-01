@@ -12,3 +12,5 @@ Make header bold
 Make small figure, red line
 
 Add Acknowledgements
+
+Collaborators and author affiliations
