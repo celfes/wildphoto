@@ -1,4 +1,5 @@
-#Camera trap script
+#Experimental
+#Camera trap script new
 #All rights reserved
 Read data file
 Run analysis
