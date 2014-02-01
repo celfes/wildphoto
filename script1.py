@@ -1,4 +1,5 @@
-#Experimental
+#Cristiane Elfes
+#Experimental New
 #Camera trap script new
 #All rights reserved
 Read data file
