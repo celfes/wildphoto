@@ -3,4 +3,4 @@ Read data file
 Run analysis
 
 Make table
-Make small figure
+Make small figure, red line
